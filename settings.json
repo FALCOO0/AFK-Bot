@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Minecrafftt.aternos.me",
-    "port": 33631,
+    "port": "33631",
     "version": "",
     "try-creative": false
   },
